@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T06:31:40.134938300Z</date>
+  <millis>1649745100134</millis>
+  <nanos>938300</nanos>
+  <sequence>0</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-04-12T06:31:40.810398700Z</date>
+  <millis>1649745100810</millis>
+  <nanos>398700</nanos>
+  <sequence>1</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T06:32:06.210706200Z</date>
+  <millis>1649745126210</millis>
+  <nanos>706200</nanos>
+  <sequence>0</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-04-12T06:32:06.898045500Z</date>
+  <millis>1649745126898</millis>
+  <nanos>45500</nanos>
+  <sequence>1</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-25T06:07:11.505144100Z</date>
+  <millis>1650866831505</millis>
+  <nanos>144100</nanos>
+  <sequence>0</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-04-25T06:07:12.353236800Z</date>
+  <millis>1650866832353</millis>
+  <nanos>236800</nanos>
+  <sequence>1</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-25T06:08:04.141650800Z</date>
+  <millis>1650866884141</millis>
+  <nanos>650800</nanos>
+  <sequence>0</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-04-25T06:08:04.846525200Z</date>
+  <millis>1650866884846</millis>
+  <nanos>525200</nanos>
+  <sequence>1</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-25T06:10:01.337296Z</date>
+  <millis>1650867001337</millis>
+  <nanos>296000</nanos>
+  <sequence>0</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-04-25T06:10:02.028802500Z</date>
+  <millis>1650867002028</millis>
+  <nanos>802500</nanos>
+  <sequence>1</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-25T06:37:20.163232400Z</date>
+  <millis>1650868640163</millis>
+  <nanos>232400</nanos>
+  <sequence>0</sequence>
+  <logger>Boot</logger>
+  <level>INFO</level>
+  <class>Boot</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started, Logger configured</message>
+</record>
+<record>
+  <date>2022-04-25T06:37:20.210096400Z</date>
+  <millis>1650868640210</millis>
+  <nanos>96400</nanos>
+  <sequence>1</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Excel reading started</message>
+</record>
+<record>
+  <date>2022-04-25T06:37:20.725320400Z</date>
+  <millis>1650868640725</millis>
+  <nanos>320400</nanos>
+  <sequence>2</sequence>
+  <logger>io.XlsReader</logger>
+  <level>INFO</level>
+  <class>io.XlsReader</class>
+  <method>readXlsUniversities</method>
+  <thread>1</thread>
+  <message>Excel reading finished successfully</message>
+</record>
+</log>
