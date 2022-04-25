@@ -16,7 +16,7 @@ public class ComparatorUtil {
             case UNIVERSITY_ID:
                 return new StudentUniversityIdComparator();
             case FULL_NAME:
-
+                //noinspection DuplicateBranchesInSwitch
                 return new StudentFullNameComparator();
             case COURSE:
                 return new StudentCourseComparator();
@@ -34,7 +34,7 @@ public class ComparatorUtil {
             case ID:
                 return new UniversityIdComparator();
             case FULL_NAME:
-
+                //noinspection DuplicateBranchesInSwitch
                 return new UniversityFullNameComparator();
             case SHORT_NAME:
                 return new UniversityShortNameComparator();
